@@ -2,6 +2,8 @@
 
 [Install-macos-big-sur-on-vmware-windows-pc](https://www.wikigain.com/install-macos-big-sur-on-vmware-windows-pc/)
 
+macOS Big Sur tilt 's werelds meest geavanceerde desktopbesturingssysteem naar een nieuw niveau van kracht en schoonheid. Ervaar de Mac ten volle met een verfijnd nieuw ontwerp. Geniet van de grootste Safari-update ooit. Ontdek nieuwe functies voor kaarten en berichten. En krijg nog meer transparantie over uw privacy.
+
 
 Hoe je macOS Big Sur op VMware op linux installeert. 
 Daarom kondigde Apple zijn nieuwste en beste besturingssystemen aan op WWDC 2020. Als je macOS Big Sur Beta eens wilt proberen, dan ben je hier aan het juiste adres.
