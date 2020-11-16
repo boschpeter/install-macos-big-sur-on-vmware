@@ -1,2 +1,3 @@
 # install-macos-big-sur-on-vmware
-Onstall-macos-big-sur-on-vmware-windows-pc/
+
+[Install-macos-big-sur-on-vmware-windows-pc](https://www.wikigain.com/install-macos-big-sur-on-vmware-windows-pc/)
