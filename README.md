@@ -22,3 +22,7 @@ Hoewel deze update voornamelijk gericht is op design, maar daarnaast zijn er vee
 
 
 [4-steps-to-install-macos-big-sur-on-laptop/](https://intozoom.com/4-steps-to-install-macos-big-sur-on-laptop/)
+
+
+
+[Watch the film Bold new experience. Same Mac magic. Unparalleled power. Legendary ease of use. Limitless creativity. macOS Big Sur brings a refined new design that gives you even more of the things you love about Mac](https://www.apple.com/105/media/us/macos/big-sur/2020/f14b0c7e-9f7e-4b9f-bd0c-b4b86ee46c92/films/design/macos-design-tpl-cc-us-2020_1280x720h.m3u8)
