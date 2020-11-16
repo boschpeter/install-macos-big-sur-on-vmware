@@ -19,3 +19,6 @@ Met de release van macOS Big Sur heeft Apple een aantal geweldige bewegingen gem
 Hoewel deze update voornamelijk gericht is op design, maar daarnaast zijn er veel updates voor de apps en evenals de interface en kleine en enorme functies. Dit jaar heeft Apple op WWDC iOS 14, WatchOS 7, tvOS 14,  macOS 11.0 (macOS Big Sur)  en enkele verbeteringen aan AirPods en AirPods Pro uitgebracht. Elke lunch op het WWDC-evenement van dit jaar was geweldig en had enorme verbeteringen in plaats van nog een jaar.
 
 [download-macos-big-iso-dmg-vmdk-and-assistant-package](https://intozoom.com/download-macos-big-iso-dmg-vmdk-and-assistant-package/)
+
+
+[4-steps-to-install-macos-big-sur-on-laptop/](https://intozoom.com/4-steps-to-install-macos-big-sur-on-laptop/)
