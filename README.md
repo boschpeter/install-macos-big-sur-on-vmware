@@ -2,6 +2,16 @@
 
 [Install-macos-big-sur-on-vmware-windows-pc](https://www.wikigain.com/install-macos-big-sur-on-vmware-windows-pc/)
 
+````
+https://www.wikigain.com/fix-the-operation-couldnt-be-completed-bierrordomain-error-3/
+
+##Hey, Try this c:\vmware\bigsur.vmx
+
+smbios.reflectHost = "TRUE"
+hw.model = "MacBookPro14,3"
+board-id = "Mac-551B86E5744E2388"
+````
+
 macOS Big Sur tilt 's werelds meest geavanceerde desktopbesturingssysteem naar een nieuw niveau van kracht en schoonheid. Ervaar de Mac ten volle met een verfijnd nieuw ontwerp. Geniet van de grootste Safari-update ooit. Ontdek nieuwe functies voor kaarten en berichten. En krijg nog meer transparantie over uw privacy.
 
 
