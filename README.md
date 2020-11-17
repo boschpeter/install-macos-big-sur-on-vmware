@@ -1,11 +1,9 @@
 # install-macos-big-sur-on-vmware
 
+
+![bigsurVM](.//pictures/vmware-workstation16_install_macOS11_big-sur_00.png)
+
 [Install-macos-big-sur-on-vmware-windows-pc](https://www.wikigain.com/install-macos-big-sur-on-vmware-windows-pc/)
-
-
-2 dagen
-
-
 
 [ownload-macos-big-sur-beta-dmg-image/]https://intozoom.com/how-to-create-macos-catalina-iso-dmg-file/
 
@@ -82,7 +80,7 @@ and then press 'Enter' key to cancel the installation.
 
 
 
-![bigsurVM](.//pictures/vmware-workstation16_install_macOS11_big-sur_00.png)
+
 ![bigsurVM](.//pictures/vmware-workstation16_install_macOS11_big-sur_01.png)
 ![bigsurVM](.//pictures/vmware-workstation16_install_macOS11_big-sur_02.png)
 ![bigsurVM](.//pictures/vmware-workstation16_install_macOS11_big-sur_03.png)
