@@ -12,23 +12,17 @@ Gebruik de onderstaande links om uw gratis, volledig functionele proefperiode va
 
 
 ## macos-unlocker-vmware-workstation-player-
-[macos-unlocker-vmware-workstation-player-](https://www.geekrar.com/macos-unlocker-vmware-workstation-player-14-12/)
-
-
 
 ##  Linux
 
-[On Linux you will need to be either root or use sudo to run the scripts.](https://github.com/paolo-projects/unlocker)
+[On Linux you will need to be either root or use sudo to run the scripts.](https://github.com/BDisp/unlocker/blob/master/readme.txt)
 ````
 You may need to ensure the Linux scripts have execute permissions
 by running chmod +x against the 2 files.
 
 lnx-install.sh   - patches VMware
+
 lnx-uninstall.sh - restores VMware
 lnx-update-tools.sh - retrieves latest macOS guest tools
-````
-
-## download-vmware-unlocker-2-1-1 
-
-[download-vmware-unlocker-2-1-1](https://www.sysnettechsolutions.com/en/download-vmware-unlocker-2-1-1/)
+```
 
