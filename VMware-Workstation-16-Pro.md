@@ -10,3 +10,6 @@ een nieuwe CLI voor het ondersteunen van containers en Kubernetes-clusters: 'vct
 en Linux-besturingssystemen en meer.
 Gebruik de onderstaande links om uw gratis, volledig functionele proefperiode van 30 dagen te starten, geen registratie vereist.
 
+
+## macos-unlocker-vmware-workstation-player-
+[macos-unlocker-vmware-workstation-player-](https://www.geekrar.com/macos-unlocker-vmware-workstation-player-14-12/)
