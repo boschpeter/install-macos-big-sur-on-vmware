@@ -27,3 +27,8 @@ lnx-install.sh   - patches VMware
 lnx-uninstall.sh - restores VMware
 lnx-update-tools.sh - retrieves latest macOS guest tools
 ````
+
+## download-vmware-unlocker-2-1-1 
+
+[download-vmware-unlocker-2-1-1](https://www.sysnettechsolutions.com/en/download-vmware-unlocker-2-1-1/)
+
