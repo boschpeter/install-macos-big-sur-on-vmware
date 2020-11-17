@@ -43,3 +43,30 @@ Hoewel deze update voornamelijk gericht is op design, maar daarnaast zijn er vee
 
 
 
+## cd Downloads && sudo sh VMware-Workstation-Full-16.0.0-16894299.x86_64.bundle
+
+````
+boscp08@kubernetes-worker2:~/Downloads$ ls
+ansible  tt  VMware-Workstation-Full-16.0.0-16894299.x86_64.bundle
+boscp08@kubernetes-worker2:~/Downloads$ sudo sh VMware-Workstation-Full-16.0.0-16894299.x86_64.bundle
+[sudo] password for boscp08: 
+Extracting VMware Installer...done.
+Cannot install VMware Workstation 16.0.0.16894299 while VMware Player
+is installed.  Please uninstall VMware Player 16.0.0.16894299 and run
+the installer again.  Aborting installation.
+````
+
+## sudo vmware-installer -u vmware-player
+
+````
+boscp08@kubernetes-worker2:~/Downloads$ sudo vmware-installer -u vmware-player
+The following virtual machines and VMware applications
+are running.  Please suspend or close them, and then press
+'Enter' key to continue. Or directly press 'Enter' key to
+do this automatically. You can also press any other key,
+and then press 'Enter' key to cancel the installation.
+
+> VMware Player
+
+````
+
