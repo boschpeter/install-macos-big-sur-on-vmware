@@ -2,6 +2,16 @@
 
 [Install-macos-big-sur-on-vmware-windows-pc](https://www.wikigain.com/install-macos-big-sur-on-vmware-windows-pc/)
 
+
+2 dagen
+
+
+
+[ownload-macos-big-sur-beta-dmg-image/]https://intozoom.com/how-to-create-macos-catalina-iso-dmg-file/
+
+## hdiutil convert /tmp/bigsur.dmg -format UDTO -o ~/Desktop/bigsur.cdr
+## mv ~/Desktop/bigsur.cdr ~/Desktop/bigsur.iso
+
 ````
 https://www.wikigain.com/fix-the-operation-couldnt-be-completed-bierrordomain-error-3/
 
