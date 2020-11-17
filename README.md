@@ -2,6 +2,8 @@
 
 
 ![bigsurVM](.//pictures/vmware-workstation16_install_macOS11_big-sur_00.png)
+![bigsurVM](.//pictures/vmware-workstation16_install_macOS11_big-sur_71.png)
+
 
 [Install-macos-big-sur-on-vmware-windows-pc](https://www.wikigain.com/install-macos-big-sur-on-vmware-windows-pc/)
 
