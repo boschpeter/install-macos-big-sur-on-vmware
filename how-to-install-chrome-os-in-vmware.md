@@ -28,7 +28,7 @@ maar u moet de Neverware-lijst met ondersteunde apparaten controleren om te cont
 hoe goed uw apparaat wordt ondersteund voordat u begint. In plaats van dit te doen, zullen 
 we onderzoeken hoe u CloudReady Chrome OS in plaats daarvan als een virtuele VMWare-machine kunt installeren.
 
-## Installeer Chrome OS op VMWare   CloudReady OVA-bestand
+## Installeer Chrome OS op VMWare   CloudReady OVA-bestand= CloudReady-Home-v83-x64.ova
 Met VMWare kun je een virtuele machine draaien, met zijn eigen geïsoleerde virtuele hardware en opslag, 
 bovenop je bestaande besturingssysteem. Als u bijvoorbeeld Ubuntu in Virtualbox installeert, 
 krijgt u toegang tot Linux bovenop Windows of macOS.
@@ -40,6 +40,8 @@ U moet eerst VMWare Workstation Player downloaden en installeren, beschikbaar vo
 niet-commercieel gebruik op Windows en Linux. Download na installatie de VMWare-afbeelding voor CloudReady naar uw pc. 
 U moet er ook voor zorgen dat virtualisatie is ingeschakeld in uw BIOS / UEFI-instellingen.
 Klik in VMWare Workstation Player op Player> File> Open. Zoek het CloudReady OVA-bestand, selecteer het en klik op Openen.
+
+[CloudReady OVA-bestand= CloudReady-Home-v83-x64.ova](https://cloudreadykb.neverware.com/s/article/Download-CloudReady-Image-For-VMware)
 
 
 
