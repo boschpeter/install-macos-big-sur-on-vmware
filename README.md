@@ -1,5 +1,6 @@
 # install-macos-big-sur-on-vmware
 
+[macOS Big Sur is Out! - What's New? (Every Change and Update)](https://youtu.be/orKd7GVtAB0)
 
 ![bigsurVM](.//pictures/vmware-workstation16_install_macOS11_big-sur_00.png)
 ![bigsurVM](.//pictures/vmware-workstation16_install_macOS11_big-sur_71.png)
