@@ -5,6 +5,23 @@ MacOS 11 is een van de grootste updates tot nu toe, met een visuele revisie, nie
 een snellere Safari-ervaring en een bijgewerkte Berichten-app. 
 Het begint ook de overgang van Apple weg van Intel CPU's.
 
+We hebben er lang op moeten wachten, maar vanaf nu kun je dan eindelijk macOS Big Sur downloaden voor je ondersteunende Mac. 
+De software-update is de start van een nieuwe macOS 11-tijdperk en brengt een hoop vernieuwing met zich mee.
+
+Big Sur bevat o.a. een aangepaste interface die volledig vernieuwd is, zo heeft Apple gebruikgemaakt 
+van nieuwe app-iconen, symbolen, schaduwen, afrondingen, etc. De menubalk en Dock zijn aangepast 
+en alles oogt frisser en meer in lijn met iOS en iPadOS. Verder zijn er ook nieuwe 
+functies en opties toegevoegd zoals een bedieningspaneel, verbeteringen in de Woning-app en meer.
+
+Statusupdate: Houdt er rekening mee dat het erg druk is op de download servers van Apple. 
+Helaas moet je veel geduld hebben. Ook kan het zijn dat de update soms stopt en je opnieuw moet beginnen.
+Wellicht is morgen of komend weekend een betere dag om te downloaden.
+
+Apparaten die macOS Big Sur ondersteunen
+
+Je kunt macOS 11 vanaf nu installeren op de MacBook 12" 2015 of nieuwer, MacBook Air 2013 of nieuwer,
+MacBook Pro eind 2013 of nieuwer, iMac eind 2014 of nieuwer, Mac Mini 2014 of nieuwer, iMac Pro, Mac Pro eind 2013 of nieuwer.
+
 [macOS Big Sur is Out! - What's New? (Every Change and Update)](https://youtu.be/orKd7GVtAB0)
 
 ![bigsurVM](.//pictures/vmware-workstation16_install_macOS11_big-sur_00.png)
