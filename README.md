@@ -1,5 +1,10 @@
 # install-macos-big-sur-on-vmware
 
+De nieuwste MacOS-update van Apple, Big Sur genaamd, gaat na bijna 20 jaar eindelijk weg van versie 10. 
+MacOS 11 is een van de grootste updates tot nu toe, met een visuele revisie, nieuwe meldingen, 
+een snellere Safari-ervaring en een bijgewerkte Berichten-app. 
+Het begint ook de overgang van Apple weg van Intel CPU's.
+
 [macOS Big Sur is Out! - What's New? (Every Change and Update)](https://youtu.be/orKd7GVtAB0)
 
 ![bigsurVM](.//pictures/vmware-workstation16_install_macOS11_big-sur_00.png)
