@@ -2,13 +2,16 @@
 
 https://www.wikigain.com/fix-the-operation-couldnt-be-completed-bierrordomain-error-3/
 
-##Hey, Try this c:\vmware\bigsur.vmx
+## Hey, Try this c:\vmware\bigsur.vmx
 
 ````
 smbios.reflectHost = "TRUE"
 hw.model = "MacBookPro14,3"
 board-id = "Mac-551B86E5744E2388"
 ````
+And hey, dus suspend, but do not shutdown the machine (black-screenissue!) 
+
+
 
 De nieuwste MacOS-update van Apple, Big Sur genaamd, gaat na bijna 20 jaar eindelijk weg van versie 10. 
 MacOS 11 is een van de grootste updates tot nu toe, met een visuele revisie, nieuwe meldingen, 
