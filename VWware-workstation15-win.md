@@ -1,5 +1,15 @@
 https://github.com/BDisp/unlocker
 
+https://www.wikigain.com/fix-the-operation-couldnt-be-completed-bierrordomain-error-3/
+
+## Hey, Try this c:\vmware\bigsur.vmx
+
+````
+smbios.reflectHost = "TRUE"
+hw.model = "MacBookPro14,3"
+board-id = "Mac-551B86E5744E2388"
+````
+And hey, dus suspend, but do not shutdown the machine (black-screenissue!) 
 
 
 ![bigsurwinVM](.//pictures/vmware-workstation15win_install_macOS11_big-sur_24.png)
