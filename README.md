@@ -7,7 +7,7 @@ https://www.wikigain.com/fix-the-operation-couldnt-be-completed-bierrordomain-er
 ````
 smbios.reflectHost = "TRUE"
 hw.model = "MacBookPro14,3"
-board-id = "Mac-5
+board-id = "Mac-551B86E5744E2388"
 ````
 
 De nieuwste MacOS-update van Apple, Big Sur genaamd, gaat na bijna 20 jaar eindelijk weg van versie 10. 
