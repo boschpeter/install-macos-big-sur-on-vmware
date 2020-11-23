@@ -1,5 +1,15 @@
 # install-macos-big-sur-on-vmware
 
+https://www.wikigain.com/fix-the-operation-couldnt-be-completed-bierrordomain-error-3/
+
+##Hey, Try this c:\vmware\bigsur.vmx
+
+````
+smbios.reflectHost = "TRUE"
+hw.model = "MacBookPro14,3"
+board-id = "Mac-5
+````
+
 De nieuwste MacOS-update van Apple, Big Sur genaamd, gaat na bijna 20 jaar eindelijk weg van versie 10. 
 MacOS 11 is een van de grootste updates tot nu toe, met een visuele revisie, nieuwe meldingen, 
 een snellere Safari-ervaring en een bijgewerkte Berichten-app. 
