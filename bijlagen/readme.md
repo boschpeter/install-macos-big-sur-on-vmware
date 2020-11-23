@@ -2,6 +2,10 @@
 
 ````.encoding = "windows-1252"````
 
+````
+#!/usr/bin/vmware
+.encoding = "UTF-8"
+````
 
 ````
 smbios.reflectHost = "TRUE"
