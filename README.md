@@ -180,3 +180,8 @@ and then press 'Enter' key to cancel the installation.
 ![bigsurVM](.//pictures/vmware-workstation16_install_macOS11_big-sur_70.png)
 ![bigsurVM](.//pictures/  vmware-workstation16_install_macOS11_big-sur_71.png)
 
+|step|description|command https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup |
+|--|------------|----------------|
+|1|git config --global user.email "bosch.peter@icloud.com" |
+|2|git config --global user.name "boschpeter" |
+|3|git config --list|
