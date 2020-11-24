@@ -14,6 +14,8 @@ And hey, dus suspend, but do not shutdown the machine (black-screenissue!)
 
 [download-latest-macos-big-sur-wallpapers](https://9to5mac.com/2020/10/14/download-latest-macos-big-sur-wallpapers-here-ahead-of-public-release/#jp-carousel-672895)
 
+[The Latest from the Industry Defining Desktop Hypervisor The Next Generation VMware Desktop Hypervisors for Windows and Linux are Here ](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
+
 De nieuwste MacOS-update van Apple, Big Sur genaamd, gaat na bijna 20 jaar eindelijk weg van versie 10. 
 MacOS 11 is een van de grootste updates tot nu toe, met een visuele revisie, nieuwe meldingen, 
 een snellere Safari-ervaring en een bijgewerkte Berichten-app. 
