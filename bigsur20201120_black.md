@@ -1,7 +1,7 @@
 
 
 
-![tt](..//pictures/bigsur20201120_black_00.png)
+![tt](.//pictures/bigsur20201120_black_00.png)
 
 ![tt](..//pictures/bigsur20201120_black_01.png)
 
